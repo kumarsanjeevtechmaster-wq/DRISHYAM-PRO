@@ -1,0 +1,19 @@
+{
+  "name": "drishyam-ai-spiritual",
+  "version": "1.0.0",
+  "description": "Drishyam AI · Vedic Astrology & Spiritual Guidance Super App",
+  "scripts": {
+    "start": "npx serve -s . -l 3000",
+    "preview": "python -m http.server 3000"
+  },
+  "keywords": [
+    "astrology",
+    "vedic",
+    "kundli",
+    "tarot",
+    "numerology",
+    "spiritual"
+  ],
+  "author": "",
+  "license": "ISC"
+}
